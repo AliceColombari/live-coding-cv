@@ -8,3 +8,33 @@ header{
     background-color: #ccc;
     border-bottom: solid 2px #cf8a05;
 }
+
+section h2{
+    color: #cf8a05;
+} 
+
+/* Altri modi per esprimere lo stesso concetto */
+
+/* #experience h2{
+    color: #cf8a05;
+} */
+
+/* .titolo-in-giallo{
+    color: #cf8a05;
+} */
+
+/*#experience .titolo-in-giallo{
+    color: #cf8a05;
+}*/
+
+.item h3{
+    font-style: italic;
+}
+
+main {
+    margin-left: 15px;
+}
+
+hr {
+    color: #cf8a05;
+}
