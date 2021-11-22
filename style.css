@@ -42,3 +42,9 @@ main {
 hr {
     border: solid 2px #cf8a05;
 }
+
+/* calcolo pixel, utilizzando em, rispetto all'elemento padre quale il codice html*/
+
+footer p{
+    font-size: 0.75em;
+}
