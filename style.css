@@ -9,6 +9,10 @@ header{
     border-bottom: solid 2px #cf8a05;
 }
 
+.immagine-profilo{
+    width: 15%;
+}
+
 section h2{
     color: #cf8a05;
 } 
