@@ -36,5 +36,5 @@ main {
 }
 
 hr {
-    color: #cf8a05;
+    border: solid 2px #cf8a05;
 }
